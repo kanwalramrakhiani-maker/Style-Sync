@@ -1,0 +1,13 @@
+{
+  "name": "StyleSync",
+  "description": "A premium AI-powered accessories management and styling platform with luxury dark UI, digital closet, and smart outfit suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered styling",
+    "Digital closet management",
+    "Usage analytics",
+    "AR-assisted try-on"
+  ]
+}
